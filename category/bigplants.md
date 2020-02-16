@@ -1,6 +1,6 @@
 ---
-slug: bigplants
-title: Big plants
+slug: tableware
+title: 餐具
 section: Store
 layout: category
 menu:
