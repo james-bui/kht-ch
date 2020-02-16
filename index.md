@@ -2,8 +2,6 @@
 title: Home
 isHome: true
 layout: index
+
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# 1982年以来的中草药，礼品和商品商店
