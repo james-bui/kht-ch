@@ -1,6 +1,6 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: gifts
+title: 礼品
 section: Store
 layout: category
 menu:
