@@ -99,6 +99,7 @@ fields:
     required: true
 pages:
 - products/103tea.md
+- products/nianyu-bowl.md
 - products/plant1.md
 - products/plant2.md
 - products/plant3.md
