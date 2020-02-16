@@ -2,8 +2,8 @@
   "title": "$75订单有免费送货",
   "subtitle": "",
   "image": {
-    "optimized": "images/promo.webp",
-    "fallback": "images/promo.jpg"
+    "optimized": "/images/brown cab.webp",
+    "fallback": "/images/brown cab.jpg"
   },
   "cta": {
     "text": "购物",
