@@ -15,14 +15,12 @@ bulletpoints:
   image:
     optimized: ''
     fallback: "/images/kht wechat (2).jpg"
-- title: We think plants are the future
-  description: Word. But good **code** _can_ solve a lots of problems, too. New _and_
-    old. That’s why we help beginners get started with web development through free
-    content and tools, like this theme. We also believe [the JAMstack](https://jamstack.org/)
-    might be one solid pillar on which we build that future.
+- title: 确认和后续步骤
+  description: 一旦我们确认了适合您配方的草药库存，我们就会与您联系以获取价格和有关订单的其他详细信息。 您的确认后，我们会将配方奶粉包装在单独的包装中进行酿造。
+    如果您有任何常见问题解答中未回答的问题，请随时与我们联系。
   image:
-    optimized: images/team.webp
-    fallback: images/team.jpg
+    optimized: ''
+    fallback: ''
 layout: about
 menu:
   main:
