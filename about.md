@@ -3,13 +3,15 @@ title: 药方
 headline: 药方运给您
 introduction: 我们在中草药领域拥有近40年的专业知识。 我们可以在美国各地制备和邮寄中药配方。
 bulletpoints:
-- title: We love plants
-  description: Now THAT is true, but we love web development even more. We talk about
-    it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft live demos
-    and open source these bad boys [on GitHub](https://github.com/snipcart). Matter
-    of fact, this Planty theme [is open source too](https://github.com/snipcart/stackbit-theme-planty)!
-    If you spot any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-    Michael, you’re good.
+- title: 寄你的药方
+  description: |-
+    考虑到每种配方的草药的复杂性和多种组合，我们无法为每种草药包提供固定价格。请通过以下任何一种方式将您的草药配方发送给我们:
+
+    * 电子邮件: **_khtherbs@gmail.com_**
+    * 短信: **_916-862-0719_**
+    * 传真: **_916-391-2311_** (请通过传真提供电话或电子邮件)
+    * 微信名: **khanhingtong**
+    * 左侧的微信二维码
   image:
     optimized: images/nan_talk.webp
     fallback: images/nan_talk.jpg
