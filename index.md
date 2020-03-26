@@ -10,7 +10,7 @@ layout: index
 
 # 短信: **_916-862-0719_**
 
-# 传真: **_916-391-2311_** (please provide phone or email on fax)
+# 传真: **_916-391-2311_** 
 
 # 微信名: **khanhingtong**
 
