@@ -13,8 +13,8 @@ bulletpoints:
     * 微信名: **khanhingtong**
     * 左侧的微信二维码
   image:
-    optimized: images/nan_talk.webp
-    fallback: images/nan_talk.jpg
+    optimized: ''
+    fallback: "/images/kht wechat (2).jpg"
 - title: We think plants are the future
   description: Word. But good **code** _can_ solve a lots of problems, too. New _and_
     old. That’s why we help beginners get started with web development through free
