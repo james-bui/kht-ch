@@ -10,13 +10,14 @@ questions:
 
 
     * 国际运输将需要10到15个工作日。
-- question: How do refunds and returns work?
+- question: 退款和退货如何运作？
   answer: |-
-    It happens. Even the most beautiful of plants will disappoint *someone*. Again, tell it like it is:
+    我们了解，有时某些商品不能令您满意。 以下是我们有关退款和退货的政策：
 
-      - All discounted items sales are final.
-      - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-      - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+    * 如果产品未打开或未使用，则在7天之内，我们将在收到产品后退还我们的地址，以退还购买款项：6035 Stockton Blvd, Sacramento, CA 95824
+
+
+    * 所有打折商品的销售都是最终的。
 layout: faq
 menu:
   main:
