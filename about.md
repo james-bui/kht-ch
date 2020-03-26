@@ -1,11 +1,7 @@
 ---
-title: About
-headline: We are Planty
-introduction: Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of
-  geeks from Québec City. Planty is a theme we built for [Stackbit](https://www.stackbit.com/),
-  a killer JAMstack site-builder. To enable e-commerce on Planty, you’ll need to [sign
-  up for Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-  required.
+title: 药方
+headline: 药方运给您
+introduction: 我们在中草药领域拥有近40年的专业知识。 我们可以在美国各地制备和邮寄中药配方。
 bulletpoints:
 - title: We love plants
   description: Now THAT is true, but we love web development even more. We talk about
@@ -29,6 +25,5 @@ layout: about
 menu:
   main:
     weight: 2
-    title: 药方
 
 ---
