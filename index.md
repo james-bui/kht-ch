@@ -4,4 +4,14 @@ isHome: true
 layout: index
 
 ---
-# 1982年以来的中药,礼品,和商品商店
+# 在作品中. 跟我们联系在
+
+# 电子邮件: **_khtherbs@gmail.com_**
+
+# 短信: **_916-862-0719_**
+
+# 传真: **_916-391-2311_** (please provide phone or email on fax)
+
+# 微信名: **khanhingtong**
+
+# 微信二维码:![](/images/kht wechat (2).jpg)
