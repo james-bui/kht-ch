@@ -18,6 +18,6 @@ layout: faq
 menu:
   main:
     weight: 3
-    title: '资料 '
+    title: 新冠肺炎
 
 ---
