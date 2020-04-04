@@ -4,7 +4,11 @@ headline: 莲花清瘟胶囊和清肺排毒汤
 introduction: ''
 questions:
 - question: 莲花清瘟胶囊
-  answer: ''
+  answer: |2-
+        <div class="cognito">
+        <script src="https://services.cognitoforms.com/s/jgCD5cps5EuN7GXA2TLXQA"></script>
+        <script>Cognito.load("forms", { id: "1" });</script>
+        </div>
 - question: 退款和退货如何运作？
   answer: |-
     我们了解，有时某些商品不能令您满意。 以下是我们有关退款和退货的政策：
