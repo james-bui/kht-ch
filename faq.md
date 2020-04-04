@@ -4,7 +4,7 @@ headline: 莲花清瘟胶囊和清肺排毒汤
 introduction: ''
 questions:
 - question: 清肺排毒汤
-  answer: ''
+  answer: "![](/images/mmexport1586023936805.jpg)"
 layout: faq
 menu:
   main:
