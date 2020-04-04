@@ -1,18 +1,5 @@
 {
   "data": [
-    {
-      "text": "Great!",
-      "author": {
-        "name": "John Dope",
-        "location": "Colorado, USA"
-      }
-    },
-    {
-      "text": "Amazing!",
-      "author": {
-        "name": "Major Payne",
-        "location": "VA, USA"
-      }
-    }
+
   ]
 }
