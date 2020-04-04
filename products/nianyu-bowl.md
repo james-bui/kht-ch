@@ -3,7 +3,7 @@ layout: product
 id: nianyubowl
 title: nianyu bowl
 description: ''
-price: "8"
+price: '8'
 images:
   default:
     thumbnail:

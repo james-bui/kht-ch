@@ -1,5 +1,5 @@
 ---
-id: "7"
+id: '7'
 title: Sed consectetur
 description: Fusce sed tortor id diam rhoncus accumsan.
 price: '18.90'
