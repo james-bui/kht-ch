@@ -11,14 +11,7 @@ introduction: |-
   </div>
 questions:
 - question: 莲花清瘟胶囊
-  answer: |-
-    <div class="cognito">
-
-    <script src="[https://services.cognitoforms.com/s/jgCD5cps5EuN7GXA2TLXQA](https://services.cognitoforms.com/s/jgCD5cps5EuN7GXA2TLXQA "https://services.cognitoforms.com/s/jgCD5cps5EuN7GXA2TLXQA")"></script>
-
-    <script>Cognito.load("forms", { id: "1" });</script>
-
-    </div>
+  answer: ''
 - question: 退款和退货如何运作？
   answer: |-
     我们了解，有时某些商品不能令您满意。 以下是我们有关退款和退货的政策：
@@ -34,4 +27,3 @@ menu:
     title: 新冠肺炎
 
 ---
-<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSdGSb3z5827v1rOg6fJIyHt1xdgUnjEoMFbr0bC-bpB-2eiqA/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSdGSb3z5827v1rOg6fJIyHt1xdgUnjEoMFbr0bC-bpB-2eiqA/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSdGSb3z5827v1rOg6fJIyHt1xdgUnjEoMFbr0bC-bpB-2eiqA/viewform?embedded=true")" width="640" height="1227" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
