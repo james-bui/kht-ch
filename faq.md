@@ -1,14 +1,7 @@
 ---
 title: 新冠肺炎药和处方
 headline: 莲花清瘟胶囊和清肺排毒汤
-introduction: |-
-  <div class="cognito">
-
-  <script src="[https://services.cognitoforms.com/s/jgCD5cps5EuN7GXA2TLXQA](https://services.cognitoforms.com/s/jgCD5cps5EuN7GXA2TLXQA "https://services.cognitoforms.com/s/jgCD5cps5EuN7GXA2TLXQA")"></script>
-
-  <script>Cognito.load("forms", { id: "1" });</script>
-
-  </div>
+introduction: ''
 questions:
 - question: 莲花清瘟胶囊
   answer: ''
