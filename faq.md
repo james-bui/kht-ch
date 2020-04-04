@@ -1,7 +1,9 @@
 ---
 title: 新冠肺炎药和处方
 headline: 莲花清瘟胶囊和清肺排毒汤
-introduction: ''
+introduction: <iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSdGSb3z5827v1rOg6fJIyHt1xdgUnjEoMFbr0bC-bpB-2eiqA/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSdGSb3z5827v1rOg6fJIyHt1xdgUnjEoMFbr0bC-bpB-2eiqA/viewform?embedded=true
+  "https://docs.google.com/forms/d/e/1FAIpQLSdGSb3z5827v1rOg6fJIyHt1xdgUnjEoMFbr0bC-bpB-2eiqA/viewform?embedded=true")"
+  width="640" height="1227" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 questions:
 - question: 莲花清瘟胶囊
   answer: <iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSdGSb3z5827v1rOg6fJIyHt1xdgUnjEoMFbr0bC-bpB-2eiqA/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSdGSb3z5827v1rOg6fJIyHt1xdgUnjEoMFbr0bC-bpB-2eiqA/viewform?embedded=true
