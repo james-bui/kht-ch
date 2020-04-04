@@ -1,5 +1,5 @@
 ---
-id: "3"
+id: '3'
 title: Curabitur eu tempor
 description: Nulla non pretium metus, vitae finibus lectus.
 price: '150.00'

@@ -1,5 +1,5 @@
 ---
-id: "8"
+id: '8'
 title: Fusce sed
 description: In cursus sagittis eros non congue.
 price: '50.00'

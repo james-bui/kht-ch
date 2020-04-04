@@ -1,5 +1,5 @@
 ---
-id: "9"
+id: '9'
 title: Fusce sagittis
 description: Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.
 price: '400.00'
@@ -22,7 +22,6 @@ category: cactuses
 featured: true
 section: Store
 layout: product
-published: false
 
 ---
 # Fusce sagittis

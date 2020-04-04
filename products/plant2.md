@@ -1,5 +1,5 @@
 ---
-id: "2"
+id: '2'
 title: Integer porta
 description: Suspendisse efficitur eget erat sit amet efficitur.
 price: '99.00'
@@ -22,6 +22,7 @@ category: cactuses
 featured: true
 section: Store
 layout: product
+published: false
 
 ---
 # Integer porta
