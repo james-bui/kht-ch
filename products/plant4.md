@@ -1,8 +1,8 @@
 ---
-id: "4"
+id: '4'
 title: Cras molestie
 description: Maecenas pretium blandit ex id lobortis.
-price: "24.99"
+price: '24.99'
 images:
   default:
     thumbnail:
